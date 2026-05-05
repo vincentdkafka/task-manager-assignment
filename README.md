@@ -49,7 +49,7 @@ Think of it as a lightweight Trello — users can create projects, invite teamma
 
 ```bash
 git clone https://github.com/vincentdkafka/team-manager-assignment.git
-cd team-task-manager
+cd team-manager-assignment
 ```
 
 ### 2. Setup Backend
